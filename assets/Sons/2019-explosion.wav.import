@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/2019-explosion.wav-1bd6b2659cf23cda35bf3e40955fb805.sample"
+
+[deps]
+
+source_file="res://assets/Sons/2019-explosion.wav"
+dest_files=[ "res://.import/2019-explosion.wav-1bd6b2659cf23cda35bf3e40955fb805.sample" ]
+
+[params]
+
+force/8_bit=true
+force/mono=true
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
